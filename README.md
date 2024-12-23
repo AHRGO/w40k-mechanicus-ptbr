@@ -13,3 +13,8 @@ Selecione "Edit Data". Provavelmente aparecerá uma mensagem dizendo que o arqui
 Na janela que ira aparecer, você seleciona todo o código, deleta, substitui por este, e então fecha a janela clicando OK.
 
 Na tela de seleção de arquivo, salve as modificações (CTRL + S)
+
+# Realizando a tradução
+O modelo adotado aqui é o de copiar a linha original, comêntá-la e realizar tradução. Assim, caso seja necessário rever a tradução, é possível ter acesso a versão original
+
+Como o arquivo de linguagens é multiplataforma e o foco aqui é a tradução para PC's, essas traduções foram anotadas com TODO's afim de focar primariamente em computadores e, mais tarde quando o tempo permitir, realizar a tradução completa.
